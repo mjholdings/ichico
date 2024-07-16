@@ -44,9 +44,7 @@ $cookies_consent_mesag = $products->getSettings('site', 'cookies_consent_mesag')
     <meta name="msapplication-TileColor" content="#000000">
     <link rel="icon" type="image/png" sizes="32x32" href="<?php echo base_url('assets/images/AppIcons/appstore.png'); ?>">
     <link rel="icon" type="image/png" sizes="16x16" href="<?php echo base_url('assets/images/AppIcons/appstore.png'); ?>">
-
-
-    <title><?= $store_setting['name'] ?> <?= isset($meta_title) ? '- ' . $meta_title : '' ?></title>
+    <title>Ichico</title>
 
     <!--  CSS -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
