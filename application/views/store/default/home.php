@@ -60,25 +60,26 @@
 			<div class="col-12 col-md-12 col-lg-4 col-xl-6 image-about leoanh-ytb">
 				<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_255026422">
 					<div class="img-inner dark">
-						<img class=" image-story-trademark" decoding="async"src="https://ohbp.vn/wp-content/uploads/2020/06/cau-chuyen-thuong-hieu-png.png" data-src="https://ohbp.vn/wp-content/uploads/2020/06/cau-chuyen-thuong-hieu-png.png" class="attachment-original size-original lazy-load-active" alt="" srcset="https://ohbp.vn/wp-content/uploads/2020/06/cau-chuyen-thuong-hieu-png.png 467w, https://ohbp.vn/wp-content/uploads/2020/06/cau-chuyen-thuong-hieu-png-300x92.png 300w" data-srcset="https://ohbp.vn/wp-content/uploads/2020/06/cau-chuyen-thuong-hieu-png.png 467w, https://ohbp.vn/wp-content/uploads/2020/06/cau-chuyen-thuong-hieu-png-300x92.png 300w" sizes="(max-width: 467px) 100vw, 467px">
+						<img class=" image-story-trademark" decoding="async" src="https://ichico.com.vn/assets/images/site/5Fe7V8kCTBZDIjbRsgUaWcG02JEAyiqn.jpg" data-src="https://ichico.com.vn/assets/images/site/5Fe7V8kCTBZDIjbRsgUaWcG02JEAyiqn.jpg" class="attachment-original size-original lazy-load-active" alt="" srcset="https://ichico.com.vn/assets/images/site/5Fe7V8kCTBZDIjbRsgUaWcG02JEAyiqn.jpg 550w, https://ichico.com.vn/assets/images/site/5Fe7V8kCTBZDIjbRsgUaWcG02JEAyiqn.jpg 500w" sizes="(max-width: 550px) 300vw, 550px">
 					</div>
 					<style>
 						#image_255026422 {
-							width: 76%;
+							width: 100%;
 						}
 					</style>
 				</div>
-				<iframe class="iframe-style-founder " src="https://www.youtube.com/embed/JZ3MfKPLUk4?si=Ga7q2czKH52sD4FQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </iframe>
 
 			</div>
 			<div class="col-12 col-md-12 col-lg-8 col-xl-6 pt-4">
 				<div class="">
-					<p><b>OVAN HEALTH </b><b>&amp; BEAUTY PALACE –</b></p>
-					<h2 style='font-weight: 700;'><b style="font-size: 22px;color: #0a0a0a;font-weight: 700;font-size: 22px;margin-bottom:20px;">Giải pháp sức khoẻ trẻ hoá cấp tế bào 5 sao</b></h2>
+					<p><b>ICHICO</b></p>
+					<h2 style='font-weight: 700;'><b style="font-size: 22px;color: #0a0a0a;font-weight: 700;font-size: 22px;margin-bottom:20px;">Nước kiềm hữu cơ tự nhiên</b></h2>
 					<div class="line-shot"></div>
 					<div class="" style="display: flex;flex-direction: column;gap: 20px;">
-						<p><span style="font-weight: 400;line-height: 24px;">OVANGROUP, với gần 20 năm hoạt động kinh doanh trong lĩnh vực làm đẹp, sức khỏe, tế bào gốc và nghiên cứu ứng dụng công nghệ Plasma, chúng tôi đúc kết kinh nghiệm và phát triển ra mô hình <a href="https://ohbp.vn">Ovan Health &amp; Beauty Palace</a> với mong mỏi mang đưa ứng dụng để xây dựng những liệu pháp tốt nhất để chăm sóc sức khoẻ và trẻ hóa cho từng khách hàng.</span></p>
-						<p><span style="font-weight: 400;line-height: 24px;">Với tâm huyết và đặt lợi ích giá trị cho khách hàng, với đội ngũ chuyên tâm, chúng tôi đã kết hợp để đưa được ứng dụng y học cổ truyền như chăm sóc bấm huyệt, khai thông và kết hợp phương pháp hiện đại như công nghệ Tế bào gốc, công nghệ Plasma và các sản phẩm dưỡng chất thiên nhiên để đưa vào liệu trình kết hợp hiệu quả nhất.</span></p>
+						<p><span style="font-weight: 400;line-height: 24px;">Ichico tiếp tục làm dấy lên làn sóng sức khỏe với sản phẩm nước ion kiềm tươi mát của mình. Với quy trình lọc tiên tiến, nước Ichico cung cấp một nguồn nước tinh khiết, giàu ion kiềm, giúp cân bằng pH cơ thể và tăng cường hệ thống miễn dịch.</span></p>
+						<p><span style="font-weight: 400;line-height: 24px;"></span></p>
+						<p><span style="font-weight: 400;line-height: 24px;"></span></p>
+						<p><span style="font-weight: 400;line-height: 24px;"></span> </p>
 						<div class="long-line"></div>
 					</div>
 					<!-- <div class="contact_about_us">ß
@@ -108,118 +109,57 @@
 		<div class="row" id="row-307352073">
 			<div id="col-465944887" class="col small-12 large-12 col-content-new">
 				<div class="col-inner intro-dich-vu">
-					<div class="container section-title-container">
-						<h2 class="section-title section-title-center text-center"><b></b><span class="section-title-main">Giải Pháp Sức Khỏe Trẻ Hóa Cấp Tế Bào 5 Sao</span><b></b></h2>
-					</div>
-					<h2 style="text-align: center;">GIẢI PHÁP TỐI ƯU CHO BẠN</h2>
-					<p style="text-align: center;"><strong>SỨC KHỎE TRẺ HÓA CẤP TẾ BÀO 5 SAO</strong></p>
-					<p style="text-align: center;">Thanh lọc detox cấp tế bào</p>
-					<p style="text-align: center;">Ứng dụng y học tái tạo cho sức khỏe trẻ hóa sống lâu</p>
-					<p style="text-align: center;">Dưỡng sinh đông y truyền thống, kết hợp máy công nghệ cao Fusion Wave</p>
-					<p style="text-align: center;">Dinh dưỡng hợp lý từng cá thể hóa</p>
-					<p style="text-align: center;">Tập luyện thể dục để đạt hiệu quả cao nhất</p>
-					<div id="gap-1456727138" class="gap-element clearfix" style="display:block; height:auto;">
-						<style>
-							#gap-1456727138 {
-								padding-top: 19px;
-							}
-						</style>
-					</div>
-					<div class="slider-wrapper" id="slider-621168895">
-						<div class="slider slider-nav-simple slider-nav-normal slider-nav-light slider-nav-outside slider-style-normal slider-lazy-load-active is-draggable flickity-enabled" ß tabindex="0">
-							<div class="flickity-viewport">
-								<div class="flickity-slider" style="">
-									<div class="row flickity-slider-list"style="" >
-										<div id="col-182428537" class="">
-											<div class="col-inner text-center">
-												<div class="icon-box featured-box icon-box-center text-center">
-													<div class="icon-box-img" style="">
-														<div class="icon">
-															<div class="icon-inner">
-																<img class="img-flickity" decoding="async" width="300" height="300" src="https://ohbp.vn/wp-content/uploads/2024/03/4-300x300.jpg" data-src="https://ohbp.vn/wp-content/uploads/2024/03/4-300x300.jpg" class="attachment-medium size-medium lazy-load-active" alt="" srcset="https://ohbp.vn/wp-content/uploads/2024/03/4-300x300.jpg 300w, https://ohbp.vn/wp-content/uploads/2024/03/4-1024x1024.jpg 1024w, https://ohbp.vn/wp-content/uploads/2024/03/4-150x150.jpg 150w, https://ohbp.vn/wp-content/uploads/2024/03/4-768x768.jpg 768w, https://ohbp.vn/wp-content/uploads/2024/03/4-1536x1536.jpg 1536w, https://ohbp.vn/wp-content/uploads/2024/03/4-600x600.jpg 600w, https://ohbp.vn/wp-content/uploads/2024/03/4-100x100.jpg 100w, https://ohbp.vn/wp-content/uploads/2024/03/4.jpg 2048w" data-srcset="https://ohbp.vn/wp-content/uploads/2024/03/4-300x300.jpg 300w, https://ohbp.vn/wp-content/uploads/2024/03/4-1024x1024.jpg 1024w, https://ohbp.vn/wp-content/uploads/2024/03/4-150x150.jpg 150w, https://ohbp.vn/wp-content/uploads/2024/03/4-768x768.jpg 768w, https://ohbp.vn/wp-content/uploads/2024/03/4-1536x1536.jpg 1536w, https://ohbp.vn/wp-content/uploads/2024/03/4-600x600.jpg 600w, https://ohbp.vn/wp-content/uploads/2024/03/4-100x100.jpg 100w, https://ohbp.vn/wp-content/uploads/2024/03/4.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px">
-															</div>
-														</div>
-													</div>
-													<div class="icon-box-text last-reset">
-														<h3 style="text-align: center;font-size: 17px;font-weight: 600;">TRẺ HÓA</h3>
-														<p style="text-align: center;">Gói khỏe, trẻ hóa 2-5T bằng Y Học Tái Tạo &amp; Dưỡng tinh chất</p>
-														<a class="button primary lowercase reveal-icon nut-xem-them" style="border-radius:99px;">
-															<span>Xem thêm</span>
-															<i class="icon-angle-right"></i></a>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div id="col-561108398" class="">
-											<div class="col-inner text-center" style="background-color:rgba(0, 142, 162, 0.61) !important;">
-												<div class="icon-box featured-box icon-box-center text-center">
-													<div class="icon-box-img" style="">
-														<div class="icon">
-															<div class="icon-inner">
-																<img class="img-flickity" decoding="async" width="300" height="300" src="https://ohbp.vn/wp-content/uploads/2024/03/432787813_122147320376061300_5770072997601790367_n-300x300.jpg" data-src="https://ohbp.vn/wp-content/uploads/2024/03/432787813_122147320376061300_5770072997601790367_n-300x300.jpg" class="attachment-medium size-medium lazy-load-active" alt="" srcset="https://ohbp.vn/wp-content/uploads/2024/03/432787813_122147320376061300_5770072997601790367_n-300x300.jpg 300w, https://ohbp.vn/wp-content/uploads/2024/03/432787813_122147320376061300_5770072997601790367_n-150x150.jpg 150w, https://ohbp.vn/wp-content/uploads/2024/03/432787813_122147320376061300_5770072997601790367_n-768x768.jpg 768w, https://ohbp.vn/wp-content/uploads/2024/03/432787813_122147320376061300_5770072997601790367_n-600x600.jpg 600w, https://ohbp.vn/wp-content/uploads/2024/03/432787813_122147320376061300_5770072997601790367_n-100x100.jpg 100w, https://ohbp.vn/wp-content/uploads/2024/03/432787813_122147320376061300_5770072997601790367_n.jpg 900w" data-srcset="https://ohbp.vn/wp-content/uploads/2024/03/432787813_122147320376061300_5770072997601790367_n-300x300.jpg 300w, https://ohbp.vn/wp-content/uploads/2024/03/432787813_122147320376061300_5770072997601790367_n-150x150.jpg 150w, https://ohbp.vn/wp-content/uploads/2024/03/432787813_122147320376061300_5770072997601790367_n-768x768.jpg 768w, https://ohbp.vn/wp-content/uploads/2024/03/432787813_122147320376061300_5770072997601790367_n-600x600.jpg 600w, https://ohbp.vn/wp-content/uploads/2024/03/432787813_122147320376061300_5770072997601790367_n-100x100.jpg 100w, https://ohbp.vn/wp-content/uploads/2024/03/432787813_122147320376061300_5770072997601790367_n.jpg 900w" sizes="(max-width: 300px) 100vw, 300px">
-															</div>
-														</div>
-													</div>
-													<div class="icon-box-text last-reset item-2">
-														<h3 style="text-align: center;font-size: 17px;font-weight: 600;color: white;">Detox – Thải Độc Toàn Diện</h3>
-														<p style="text-align: center;">Soi Máu, Kiểm Tra<br>
-															&amp; Kết Luận 36 Chỉ Số, phác đồ tầm soát</p>
-														<a class="button primary lowercase reveal-icon nut-xem-them" style="border-radius:99px;">
-															<span>Xem thêm</span>
-															<i class="icon-angle-right"></i></a>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div id="col-1607528035" class="">
-											<div class="col-inner text-center">
-												<div class="icon-box featured-box icon-box-center text-center">
-													<div class="icon-box-img" style="">
-														<div class="icon">
-															<div class="icon-inner">
-																<img class="img-flickity" decoding="async" width="300" height="300" src="https://ohbp.vn/wp-content/uploads/2024/03/432744118_122147319530061300_2030661586627453500_n-1-300x300.jpg" data-src="https://ohbp.vn/wp-content/uploads/2024/03/432744118_122147319530061300_2030661586627453500_n-1-300x300.jpg" class="attachment-medium size-medium lazy-load-active" alt="" srcset="https://ohbp.vn/wp-content/uploads/2024/03/432744118_122147319530061300_2030661586627453500_n-1-300x300.jpg 300w, https://ohbp.vn/wp-content/uploads/2024/03/432744118_122147319530061300_2030661586627453500_n-1-150x150.jpg 150w, https://ohbp.vn/wp-content/uploads/2024/03/432744118_122147319530061300_2030661586627453500_n-1-768x768.jpg 768w, https://ohbp.vn/wp-content/uploads/2024/03/432744118_122147319530061300_2030661586627453500_n-1-600x600.jpg 600w, https://ohbp.vn/wp-content/uploads/2024/03/432744118_122147319530061300_2030661586627453500_n-1-100x100.jpg 100w, https://ohbp.vn/wp-content/uploads/2024/03/432744118_122147319530061300_2030661586627453500_n-1.jpg 900w" data-srcset="https://ohbp.vn/wp-content/uploads/2024/03/432744118_122147319530061300_2030661586627453500_n-1-300x300.jpg 300w, https://ohbp.vn/wp-content/uploads/2024/03/432744118_122147319530061300_2030661586627453500_n-1-150x150.jpg 150w, https://ohbp.vn/wp-content/uploads/2024/03/432744118_122147319530061300_2030661586627453500_n-1-768x768.jpg 768w, https://ohbp.vn/wp-content/uploads/2024/03/432744118_122147319530061300_2030661586627453500_n-1-600x600.jpg 600w, https://ohbp.vn/wp-content/uploads/2024/03/432744118_122147319530061300_2030661586627453500_n-1-100x100.jpg 100w, https://ohbp.vn/wp-content/uploads/2024/03/432744118_122147319530061300_2030661586627453500_n-1.jpg 900w" sizes="(max-width: 300px) 100vw, 300px">
-															</div>
-														</div>
-													</div>
-													<div class="icon-box-text last-reset">
-														<h3 style="text-align: center;font-size: 17px;font-weight: 600;">Massage Thư Giãn</h3>
-														<p style="text-align: center;">Massage thư giãn tinh dầu / đá nóng</p>
-														<a class="button primary lowercase reveal-icon nut-xem-them" style="border-radius:99px;">
-															<span>Xem thêm</span>
-															<i class="icon-angle-right"></i></a>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div id="col-1290046180" class="">
-											<div class="col-inner text-center" style="background-color:rgba(0, 142, 162, 0.61) !important;">
-												<div class="icon-box featured-box icon-box-center text-center">
-													<div class="icon-box-img" style="">
-														<div class="icon">
-															<div class="icon-inner">
-																<img class="img-flickity" decoding="async" width="300" height="300" src="https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-300x300.jpg" data-src="https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-300x300.jpg" class="attachment-medium size-medium lazy-load-active" alt="" srcset="https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-300x300.jpg 300w, https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-1024x1024.jpg 1024w, https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-150x150.jpg 150w, https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-768x768.jpg 768w, https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-1536x1536.jpg 1536w, https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-600x600.jpg 600w, https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-100x100.jpg 100w, https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y.jpg 2048w" data-srcset="https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-300x300.jpg 300w, https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-1024x1024.jpg 1024w, https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-150x150.jpg 150w, https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-768x768.jpg 768w, https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-1536x1536.jpg 1536w, https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-600x600.jpg 600w, https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y-100x100.jpg 100w, https://ohbp.vn/wp-content/uploads/2024/03/duong-sinh-dong-y.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px">
-															</div>
-														</div>
-													</div>
-													<div class="icon-box-text last-reset item-2">
-														<h3 style="text-align: center;font-size: 17px;font-weight: 600;color: white;">Dưỡng Sinh Trị Liệu Đông Y</h3>
-														<p style="text-align: center;">DỊCH VỤ TRỊ LIỆU VIP</p>
-														<a class="button primary lowercase reveal-icon nut-xem-them" style="border-radius:99px;">
-															<span>Xem thêm</span>
-															<i class="icon-angle-right"></i></a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
+					<div class="d-flex flex-wrap flex-md-nowrap justify-content-between" style="margin-top: 1rem">
+						<div class="category__banner--desc">
+							<ul class="d-flex flex-column justify-content-between">
+								<li class="category__banner-item d-flex align-items-center">
+									<img src="https://ichico.com.vn/assets/images/category/icon-1.png" alt="category" class="category__banner-img">
+									<h6 class="category__banner-name">Trung hoà axit trong cơ thể</h6>
+								</li>
+
+								<li class="category__banner-item d-flex align-items-center">
+									<img src="https://ichico.com.vn/assets/images/category/icon-2.png" alt="category" class="category__banner-img">
+									<h6 class="category__banner-name">Bảo vệ cơ thể khỏi các gốc tự do có hại</h6>
+								</li>
+
+								<li class="category__banner-item d-flex align-items-center">
+									<img src="https://ichico.com.vn/assets/images/category/icon-3.png" alt="category" class="category__banner-img">
+									<h6 class="category__banner-name">Thanh lọc cơ thể tối ưu</h6>
+								</li>
+							</ul>
 						</div>
-						<div class="loading-spin dark large centered" style="display: none;"></div>
+						<div class="col-md-4 col-12 category__banner-container">
+							<img class="category__banner-img" src="https://ichico.com.vn/assets/images/category/category_banner.png" alt="" width="100%">
+						</div>
+						<div class="category__banner--desc">
+							<ul class="d-flex flex-column justify-content-between">
+								<li class="category__banner-item d-flex align-items-center">
+									<img src="https://ichico.com.vn/assets/images/category/icon-4.png" alt="category" class="category__banner-img">
+									<h6 class="category__banner-name">Bổ sung khoáng chất cần thiết cho cơ thể</h6>
+								</li>
+
+								<li class="category__banner-item d-flex align-items-center ">
+									<img src="https://ichico.com.vn/assets/images/category/icon-5.png" alt="category" class="category__banner-img">
+									<h6 class="category__banner-name">Tăng tuổi thọ cho con người</h6>
+								</li>
+
+								<li class="category__banner-item d-flex align-items-center">
+									<img src="https://ichico.com.vn/assets/images/category/icon-6.png" alt="category" class="category__banner-img">
+									<h6 class="category__banner-name">Nấu ăn ngon, giữ thực phẩm tươi</h6>
+								</li>
+							</ul>
+						</div>
 					</div>
 				</div>
+
 			</div>
 		</div>
+	</div>
+	<div class="loading-spin dark large centered" style="display: none;"></div>
+	</div>
+	</div>
+	</div>
+	</div>
 	</div>
 	<style>
 		#section_971021030 {
