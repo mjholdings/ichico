@@ -58,7 +58,7 @@
 			</div>
 			<div class="col-12 col-md-12 col-lg-8 col-xl-6 pt-4">
 				<div class="about-top-text">
-					<p class="sub-title">OVANCARE</p>
+					<p class="sub-title">ICHICO</p>
 					<h2><b>Về chúng tôi</b></h2>
 					<img src="<?= base_url('assets/store/default/'); ?>img/popline.png" class="cn-titlebar mx-0" alt="<?= __('store.image') ?>">
 					<?= !empty($content['about_content']) ? $content['about_content'] : __('store.about_us_if_not_exist'); ?>
