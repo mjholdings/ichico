@@ -214,7 +214,49 @@
 <!-- Top tags - Slider sản phẩm kích hoạt -->
 
 <!-- Sản phẩm chiến lược -->
+<section class="main-categories">
+	<div class="container">
+		<h2 class="section-title">
+			<?= __('TOP VOUCHER') ?>
+		</h2>
+		<div class="categories-listing-row-strategy justify-content-center product-strategy">
+			<?php
+			if (!empty($productsPopular)) {
+				foreach ($productsPopular as $product) {
+					// dd($productsPopular);
+					$href = base_url("store/" . base64_encode($user_id) . "/product/" . $product['product_slug']);
+			?>
+					<a href="<?= $href ?>" class="category-home pruduct-home col-lg-2 col-md-3 col-sm-4" style="text-decoration: none">
+						<img alt="<?= __('store.image') ?>" src="<?= base_url('assets/images/product/upload/thumb/'); ?><?= $product['product_featured_image']; ?>" />
+						<h3 style="font-size: 15px;font-weight: 500;font-weight: 500;display: -webkit-box;
+								-webkit-line-clamp: 1;
+								-webkit-box-orient: vertical;
+								overflow: hidden;"><?= $product['product_name']; ?></h3>
+						<h3 style="font-size: 10px;font-weight: 500;display: -webkit-box;
+								-webkit-line-clamp: 1;
+								-webkit-box-orient: vertical;
+								overflow: hidden;
+								"><?= $product['product_short_description']; ?></h3>
+						<h3 style="font-size: 20px;font-weight: 700;"><?= c_format($product['product_price']); ?></h3>
+						<!-- <div class="rating-row d-flex justify-space-center"><?= $product['product_avg_rating_stars'] ?></div> -->
+						<button class="btn btn-product bg-main2 text-white mt-3">Chi tiết</button>
+					</a>
+				<?php
+				}
+			} else {
+				?>
+				<div class="category-home pruduct-home">
+					<img alt="<?= __('store.image') ?>" src="<?= base_url('assets/store/default/'); ?>img/ctg1.png" />
+					<h3><?= __('store.dog') ?></h3>
+				</div>
+			<?php
 
+			}
+			?>
+
+		</div>
+	</div>
+</section>
 <!-- home page product grid - Sản phẩm thịnh hành -->
 <section class="home-product-grid">
 	<div class="container">
@@ -336,6 +378,24 @@ $homepage_features = (isset($store_setting['homepage_features']) && !empty($stor
 	</div>
 </section>
 
+<section class="banner-ads">
+	<?php if (isset($settings['hbanimage']) && $settings['hbanimage'] != "") { ?>
+		<img alt="<?= __('store.image') ?>" src="<?= base_url('assets/images/site/'); ?><?= $settings['hbanimage']; ?>" class="img-fluid img-banner-ads" />
+	<?php } else { ?>
+		<img alt="<?= __('store.image') ?>" src="<?= base_url('assets/store/default/'); ?>img/ad-bg.jpg" class="img-fluid img-banner-ads" />
+	<?php } ?>
+
+
+	<?php $homepage_banner = (isset($store_setting['homepage_banner'])) ? json_decode($store_setting['homepage_banner']) : []; ?>
+
+	<div class="ad-caption">
+		<h3><?= (isset($homepage_banner->title) && !empty($homepage_banner->title)) ? $homepage_banner->title : 'OvanCare'; ?>
+		</h3>
+		<p><?= (isset($homepage_banner->content) && !empty($homepage_banner->content)) ? $homepage_banner->content : 'OvanCare is simply dummy text of the printing and typesetting industry.'; ?>
+		</p>
+		<a href="<?= (isset($homepage_banner->button_link) && !empty($homepage_banner->button_link)) ? $homepage_banner->button_link : '#'; ?>"><?= (isset($homepage_banner->button_text) && !empty($homepage_banner->button_text)) ? $homepage_banner->button_text : 'OvanCare'; ?></a>
+	</div>
+</section>
 
 <section class="main-categories">
 	<div class="container">
@@ -370,9 +430,129 @@ $homepage_features = (isset($store_setting['homepage_features']) && !empty($stor
 </section>
 
 <!-- DỊCH VỤ GRID -->
-
+<section class="container dichvu">
+	<h2 class="title-font text-custom-secondary text-start" style="color:var(color-pink);font-family:Yeseva One !important;font-weight:500">Dịch vụ</h2>
+	<div class="row my-auto">
+		<?php foreach ($productsDichVu as $key => $product) { ?>
+			<div class="col-12 col-lg-6 px-0">
+				<?php
+				$href = base_url("store/" . base64_encode($user_id) . "/product/" . $product['product_slug']);
+				$image = (!empty($product['product_featured_image'])) ? base_url('assets/images/product/upload/thumb/' . $product['product_featured_image']) : 'https://res.cloudinary.com/dtiwyksp8/image/upload/v1700123969/woman-with-mask_vnj1sv.png" class="mr-1 product-thumbnail-img';
+				?>
+				<div class="row service-card">
+					<div class="col-10 col-md-6 my-3 service-img-container">
+						<img src="<?= $image ?>" class="service-img" alt="" />
+						<div class="service-price title-font"><?= c_format($product['product_price']) ?></div>
+					</div>
+					<div class="col-12 col-md-5 my-auto ml-auto pl-4">
+						<h3 class="title-font text-custom-secondary custom-full-underline">
+							<?= $product['product_name'] ?>
+						</h3>
+						<ul class="service-list mt-5">
+							<li class="service-list-item"><?= $product['product_short_description'] ?></li>
+						</ul>
+						<a href="<?= $href ?>" class="btn btn-custom-pink buttonServiceList">Chi tiết</a>
+					</div>
+				</div>
+			</div>
+		<?php } ?>
+	</div>
+</section>
 <!-- ĐÀO TẠO OVANCARE - TẾ BÀO GỐC -->
+<section class="home-blog">
+	<div class="container">
 
+		<?php $bs_cards = (isset($store_setting['bs_cards']) && !empty($store_setting['bs_cards'])) ? json_decode($store_setting['bs_cards']) : []; ?>
+
+		<div class="row">
+			<?php
+			foreach ($bs_cards as $hf) {
+				$bs_cards_are_available = true;
+				if ($hf->button_link != "")
+					$bs_button_link = $hf->button_link;
+				else
+					$bs_button_link = "#";
+
+
+			?>
+				<?php $img = (!empty($hf->feature_image)) ? base_url('assets/images/site/' . $hf->feature_image) : base_url('assets/store/default/img/blog1.png'); ?>
+				<div class="col-md-6 col-12">
+					<a class="bs_button_link" href="<?php echo $bs_button_link; ?>" target="<?php if ($hf->link_target == "true") {
+																								echo '_blank';
+																							} else {
+																								echo '_self';
+																							} ?>">
+						<div class="blog-wrapper bg-main2" <?= (!empty($hf->bg_color)) ? 'style="background-color:' . $hf->bg_color . '"' : '' ?>>
+							<img alt="<?= __('store.image') ?>" src="<?= $img; ?>" class="blog-img" />
+							<div class="blog-content">
+								<h4 class="blogContent-title" <?= (!empty($hf->bg_color_text)) ? 'style="color:' . $hf->bg_color_text . '"' : '' ?>><?= $hf->title; ?></h4>
+								<p class="blogContent-para" <?= (!empty($hf->bg_color_text)) ? 'style="color:' . $hf->bg_color_text . '"' : '' ?>><?= $hf->sub_title; ?></p>
+							</div>
+						</div>
+					</a>
+				</div>
+			<?php
+			}
+
+			if (!isset($bs_cards_are_available)) {
+			?>
+				<div class="col-md-6 col-12">
+					<div class="blog-wrapper bg-main2">
+						<img alt="<?= __('store.image') ?>" src="<?= base_url('assets/store/default/img') ?>/blog1.png" class="blog-img" />
+						<div class="blog-content">
+							<h4>OvanCare</h4>
+							<p>
+								Vui lòng vập nhật dữ liệu.
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-12">
+					<div class="blog-wrapper bg-main">
+						<img alt="<?= __('store.image') ?>" src="<?= base_url('assets/store/default/img') ?>/fb2.png" class="blog-img" />
+						<div class="blog-content">
+							<h4>OvanCare</h4>
+							<p>
+								Vui lòng vập nhật dữ liệu.
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-12">
+					<div class="blog-wrapper bg-main">
+						<img alt="<?= __('store.image') ?>" src="<?= base_url('assets/store/default/img') ?>/fb3.png" class="blog-img" />
+						<div class="blog-content">
+							<h4>OvanCare</h4>
+							<p>
+								Vui lòng vập nhật dữ liệu.
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-12">
+					<div class="blog-wrapper bg-main2">
+						<img alt="<?= __('store.image') ?>" src="<?= base_url('assets/store/default/img') ?>/fb4.png" class="blog-img" />
+						<div class="blog-content">
+							<h4>OvanCare</h4>
+							<p>
+								Vui lòng vập nhật dữ liệu.
+							</p>
+						</div>
+					</div>
+				</div>
+			<?php
+			}
+			?>
+		</div>
+
+		<!-- LỢI THẾ OVANCARE -->
+		<div class="blog-paraContent">
+			<?php
+			$para = isset($store_setting['homepage_bottom_section']) ? json_decode($store_setting['homepage_bottom_section']) : "";
+			$para = isset($para->content) ? $para->content : "";
+			?>
+			<?= (!empty(strip_tags($para))) ? $para : 'Vui lòng cập nhật bài viết ở trang quản trị.
+'; ?>
 <?php include 'product-list-template.php'; ?>
 
 
